@@ -6,7 +6,7 @@ async function bootstrap() {
 
   app.enableCors({
     origin: [ 
-      'https://dns-menu-card.vercel.app/',
+      'https://menucard-ten.vercel.app/',
     ],
   });
 
